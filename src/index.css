@@ -1,0 +1,42 @@
+body {
+    color: #fff;
+    background: linear-gradient(to right, #780206, #061161);
+    display: flex;
+}
+
+.card-titles {
+    padding-bottom:  20px;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+#main {
+    display: flex;
+    flex-direction: row;
+}
+
+.columnAbout {
+    display: flex;
+    flex-direction: column;
+}
+
+.columnCard {
+    display: flex;
+}
+
+img {
+    width: 100px;
+}
+
+.container {
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
