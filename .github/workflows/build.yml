@@ -19,8 +19,8 @@ jobs:
           node-version: '16'
       - name: Build web-app
         run: |
-          
-          npm run build
+          npm ci
+          # npm run build
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
