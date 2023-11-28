@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "github-page/",
+  "homepage": "https://andreymarques1202.github.io/",
   "dependencies": {
     "ci": "^2.3.0",
     "cra-template": "1.2.0",
