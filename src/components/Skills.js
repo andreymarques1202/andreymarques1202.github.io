@@ -1,20 +1,5 @@
 import React from "react";
-import html from "../img/html5.png";
-import css from "../img/css.png";
-import js from "../img/js.png";
-import git from "../img/git.png";
-import github from "../img/github.png";
-import php from "../img/php.png";
-import python from "../img/python.png";
-import node from "../img/node.png";
-import mysql from "../img/mysql.png";
-import mongo from "../img/mongo.png";
-import sqlite from "../img/sqlite.png";
-import postgres from "../img/postgres.png";
-import react from "../img/react.png";
-import laravel from "../img/laravel.png";
-import bulma from "../img/bulma.png";
-import bootstrap from "../img/bootstrap.png";
+
 
 const Skills = () => {
     return(
