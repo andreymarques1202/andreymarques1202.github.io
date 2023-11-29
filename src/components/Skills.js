@@ -21,7 +21,10 @@ const Skills = () => {
                 
             
             
-                
+            
+            <div className="card-titles">
+                <h2>Ferramentas</h2>
+            </div>
                     <li className="card-body">
                     <i class="devicon-git-plain colored"></i>
                     </li>
@@ -33,7 +36,15 @@ const Skills = () => {
                     <i class="devicon-github-original colored"></i>
                     </li>
                 
+                    <li className="card-body">
+                    <i class="devicon-webpack-plain colored"></i>
+                    </li>
             
+                    <li className="card-body">
+                    <i class="devicon-babel-plain colored"></i>
+                    </li>
+
+
             <div className="card-titles">
                 <h2>Linguagens de Programação</h2>
             </div>
