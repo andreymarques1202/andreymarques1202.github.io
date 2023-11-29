@@ -38,7 +38,9 @@ h1 {
     text-align: center;
 }
 
-i {
-    width: 150px;
+li {
+    display: inline;
+    padding-left: 15px;
+    font-size: 45px;
 }
 
