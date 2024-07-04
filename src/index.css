@@ -2,6 +2,13 @@ body {
     min-height: 100vh;
     font-family: sans-serif;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
 .container img{
     border-radius: 50%;
     width: 180px;
